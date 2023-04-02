@@ -11,5 +11,22 @@ have more than 10 years of professional experience in IT market, mainly in tech 
 <a href="https://open.spotify.com/user/12158334226"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;logoColor=fff&logo=Spotify&amp;link=https://open.spotify.com/user/12158334226" alt="Spotify Badge"></a>
 
 
+## 🌟 Career highlights
+### 4all
+#### Software Engineer - Feb 2017 - Oct 2018
+4all was one of the pioneer companies of digital wallets segment in Brazil. It was created by the founder of the GetNet, 
+which later become the ["first brazilian unicorn"](https://amanha.com.br/categoria/empreendedorismo/especial-o-ze-do-banrisul-da-kombi-e-do-unicornio),
+when 1B US$ worth companies were not even called this way (2014).
+
+This was my first opportunity to work in a startup and I had a huge evolution during this time. 
+
+### Leveros / Profiz
+#### Founding Software Engineer - Jan 2019 - Apr 2021
+Leveros is the one of the biggest retail sellers in Brazil.
+
+I was invited to join as part of the engineering founding team of a newly created company (called Profiz). This was one 
+of the greatest oportunities of my career because I had the chance to built from the scratch, literally from the 
+whiteboard drafts until the product releases in production.
+
 ## ⚡ Quick facts
 - My first programming language was [Visual Basic 6.0](https://en.wikipedia.org/wiki/Visual_Basic_(classic))
