@@ -14,19 +14,25 @@ have more than 10 years of professional experience in IT market, mainly in tech 
 ## 🌟 Career highlights
 ### 4all
 #### Software Engineer - Feb 2017 - Oct 2018
-4all was one of the pioneer companies of digital wallets segment in Brazil. It was created by the founder of the GetNet, 
+[4all](https://4all.com/) was one of the pioneer companies of digital wallets segment in Brazil. It was created by [the founder of the GetNet](https://startupguide-ecosystem.webflow.io/rio-grande-do-sul/jose-renato-hopf), 
 which later become the ["first brazilian unicorn"](https://amanha.com.br/categoria/empreendedorismo/especial-o-ze-do-banrisul-da-kombi-e-do-unicornio),
-when 1B US$ worth companies were not even called this way (2014).
+when 1B worth companies were not even called this way in Brazil (2014). After [GetNet was acquired by Santander](https://www.reuters.com/article/us-spain-santander-getnet-idUKBREA361KJ20140407), Hopf started this new company which I joined in 2017 as software engineer.
 
-This was my first opportunity to work in a startup and I had a huge evolution during this time. 
+This was my first opportunity to work in a startup environment and I had a huge and fast evolution during this time. I learned in practice about the **"real-life agile"**, delivering working software in short cycles of time, prioritizing the delivery and customer needs over extensive planning. After some months, I became responsible for the [settlement](https://en.wikipedia.org/wiki/Settlement_(finance)) application of digital wallet, which developed my **ownership** over the project, working directly with the product owner, contribuiting with the product decisions and giving support to them from the technical side.
 
 ### Leveros / Profiz
 #### Founding Software Engineer - Jan 2019 - Apr 2021
-Leveros is the one of the biggest retail sellers in Brazil.
+Leveros is the one of the biggest retail sellers in Brazil, operating in HVAC and solar energy fields. In 2019, I was invited to join as part of the engineering founding team of a newly created company (called [Profiz](https://www.profiz.com.br/)). Our goal was to build the field service software solution of Leveros, powered by the new company.
 
-I was invited to join as part of the engineering founding team of a newly created company (called Profiz). This was one 
-of the greatest oportunities of my career because I had the chance to built from the scratch, literally from the 
-whiteboard drafts until the product releases in production.
+This was one of the greatest oportunities of my career because I had the chance to build the project from the scratch, literally from the whiteboard drafts until collecting the user feedback from the product releases. I worked in many different fronts, like infrastructure, backend, frontend, mobile app, etc.
+
+### Codebrain
+#### Software Engineer - Mar 2022 - Mar 2023
+Codebrain is a brazilian software consulting firm working with international customers. 
+
+I worked in a software project of a German company which provides software solutions to e-mobility and renewable energy sectors. This was my first time working with an international fully-remote team.
+
 
 ## ⚡ Quick facts
 - My first programming language was [Visual Basic 6.0](https://en.wikipedia.org/wiki/Visual_Basic_(classic))
+- My main fields of interest besides programming are psychology and neuroscience
