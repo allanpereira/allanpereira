@@ -9,6 +9,7 @@ have more than 10 years of professional experience in IT market, mainly in tech 
 <a href="https://www.linkedin.com/in/allan-p-56020487/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/allan-p-56020487/" alt="LinkedIn Badge"></a>
 <a href="https://stackoverflow.com/users/3741176/allan-pereira"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&amp;logoColor=fff&amp;logo=stack-overflow&amp;link=https://stackoverflow.com/users/3741176/allan-pereira" alt="StackOverflow Badge"></a>
 <a href="https://open.spotify.com/user/12158334226"><img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;logoColor=fff&logo=Spotify&amp;link=https://open.spotify.com/user/12158334226" alt="Spotify Badge"></a>
+<a href="https://www.goodreads.com/user/show/164913385-allan"><img src="https://img.shields.io/badge/-Goodreads-F3F1EA?style=flat-square&amp;logoColor=372213&logo=Goodreads&amp;link=https://www.goodreads.com/user/show/164913385-allan" alt="Goodreads Badge"></a>
 
 
 ## 🌟 Career highlights
