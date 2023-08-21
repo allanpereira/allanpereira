@@ -29,7 +29,7 @@ This was one of the greatest oportunities of my career because I had the chance 
 
 ### Codebrain
 #### Software Engineer - Mar 2022 - Mar 2023
-Codebrain is a brazilian software consulting firm working with international customers. 
+[Codebrain](https://codebrain.com.br/) is a brazilian software consulting firm working with international customers. 
 
 I worked in a software project of a German company which provides software solutions to e-mobility and renewable energy sectors. This was my first time working with an international fully-remote team.
 
